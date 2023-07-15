@@ -66,6 +66,7 @@ class Rational(n: Int, d: Int) {
     if (b == 0) a else gcd(b, a % b)
 }
 
+
 object Main extends App {
   val oneHalf = new Rational(1, 2)
   val twoThirds = new Rational(2, 3)
