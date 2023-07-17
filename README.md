@@ -12,4 +12,4 @@
 6. [함수형 객체](https://github.com/hwibaski/studying-scala/tree/main/src/main/scala/_05)
 7. [내장 제어 구문](https://github.com/hwibaski/studying-scala/tree/main/src/main/scala/_06)
 8. [함수와 클로저](https://github.com/hwibaski/studying-scala/tree/main/src/main/scala/_07)
-
+9. [흐름 제어 추상화](https://github.com/hwibaski/studying-scala/tree/main/src/main/scala/_08)
