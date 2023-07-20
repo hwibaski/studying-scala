@@ -16,3 +16,4 @@
 10. [상속과 구성](https://github.com/hwibaski/studying-scala/tree/main/src/main/scala/_09)
 11. [스칼라의 계층 구조](https://github.com/hwibaski/studying-scala/tree/main/src/main/scala/_10)
 12. [트레이트](https://github.com/hwibaski/studying-scala/tree/main/src/main/scala/_11)
+13. [패키지와 임포트](https://github.com/hwibaski/studying-scala/tree/main/src/main/scala/_12)
